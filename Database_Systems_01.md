@@ -9,7 +9,7 @@ From Database Design for Mere Mortals®,
 Third Edition1, by Michael J. Hernandez
 
 (ISBN: 9780321884497). Copyright 2013 by
-
+  
 Michael L Hernandez All rights reserved
 
 ## 1) Hierarchical database
@@ -21,7 +21,7 @@ Michael L Hernandez All rights reserved
 -Ex. Both tables, Entertainers and Engagements, list names and phones for entertainers
 
 <!-- Hierarchical Model Root Node StuID StuName $Age$ Age ↓ 66 Muskan 20 $44$ John 20 101 82 Alex 19 Python $103$ $C++$ 102 Java 103 C++ $C++$ ↑ CID CName -->
-![](https://web-api.textin.com/ocr_image/external/b6b1dde082763878.jpg)
+<img src="https://web-api.textin.com/ocr_image/external/b6b1dde082763878.jpg" style="max-width:100%; height:auto;">
 
 <!-- Agents Entertainers Clients Schedule Engagements Payments -->
 ![](https://web-api.textin.com/ocr_image/external/394d45eb691c03d9.jpg)
@@ -41,7 +41,7 @@ Michael L Hernandez All rights reserved
 · (-) if you change the **structure, you** **must also** change programs that **access** it
 
 <!-- Agents Owner Node 1 Represent Set Structure M Clients Member Node -->
-<img src="https://web-api.textin.com/ocr_image/external/b6b1dde082763878.jpg" style="max-width:100%; height:auto;">
+![](https://web-api.textin.com/ocr_image/external/db18fa3777605f1e.jpg)
 
 **Figure** **1.4** A basic set structure
 
