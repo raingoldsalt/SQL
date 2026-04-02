@@ -161,21 +161,21 @@ WHERE City = "El Paso"
 
 ORDER BY ClientLastName, ClientFirstName
 
+·Data warehouse - collects data from multiple databases for analysis purposes
+
+- Use eXtensible Markup Language (XML) to carry data
+
 &lt;?xml version="1.0"?&gt;
 
 - &lt;birds&gt;
 
 &lt;owl id="1201"&gt;
 
-·Data warehouse - collects data from multiple databases for analysis purposes
-
 &lt;species&gt;Bubo bubo&lt;/species&gt;
 
 &lt;name&gt;Eagle Owl&lt;/name&gt;
 
 &lt;region&gt;Eurasia&lt;/region&gt;
-
-- Use eXtensible Markup Language (XML) to carry data
 
 &lt;/owl&gt;
 
