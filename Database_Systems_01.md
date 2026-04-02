@@ -41,7 +41,7 @@ Michael L Hernandez All rights reserved
 · (-) if you change the **structure, you** **must also** change programs that **access** it
 
 <!-- Agents Owner Node 1 Represent Set Structure M Clients Member Node -->
-![](https://web-api.textin.com/ocr_image/external/db18fa3777605f1e.jpg)
+<img src="https://web-api.textin.com/ocr_image/external/b6b1dde082763878.jpg" style="max-width:100%; height:auto;">
 
 **Figure** **1.4** A basic set structure
 
