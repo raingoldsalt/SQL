@@ -21,8 +21,8 @@ Michael L Hernandez All rights reserved
 -Ex. Both tables, Entertainers and Engagements, list names and phones for entertainers
 
 <!-- Hierarchical Model Root Node StuID StuName $Age$ Age ↓ 66 Muskan 20 $44$ John 20 101 82 Alex 19 Python $103$ $C++$ 102 Java 103 C++ $C++$ ↑ CID CName -->
-(image/b6b1dde082763878.jpg)
-     
+![figure](image/b6b1dde082763878.jpg)
+
 <!-- Agents Entertainers Clients Schedule Engagements Payments -->
 ![](https://web-api.textin.com/ocr_image/external/394d45eb691c03d9.jpg)
 
