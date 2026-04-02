@@ -6,7 +6,7 @@
 
 ## Output:
 
-## brief mission statement and 2-3 objectives.
+brief mission statement and 2-3 objectives.
 
 **Step** **2** Analyze current database (analyze existing database, physical folders and papers; create a list of attributes and subjects)
 
