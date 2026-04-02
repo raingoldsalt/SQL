@@ -2,15 +2,15 @@
 
 [7 Steps]
 
-**Step** **1** Define mission and objectives
+## Step 1: Define mission and objectives
 
-## Output:
+**Output:**
 
 brief mission statement and 2-3 objectives.
 
-**Step** **2** Analyze current database (analyze existing database, physical folders and papers; create a list of attributes and subjects)
+## Step 2: Analyze current database (analyze existing database, physical folders and papers; create a list of attributes and subjects)
 
-## Output:
+**Output:**
 
 **1. List of Subjects**
 
@@ -18,7 +18,7 @@ brief mission statement and 2-3 objectives.
 
 **3. List of Calculated Fields**
 
-## Step 3 Create data structure
+## Step 3: Create data structure
 
 - Create tables
 
@@ -30,13 +30,12 @@ brief mission statement and 2-3 objectives.
 
 - Identify PKs
 
-## Output:
+**Output:**
 
-**individual tables with fields and PKs**
+individual tables with fields and PKs
 
-## Database Project Phases
 
-**Step** **4** Create relationships (between tables)
+## Step 4: Create relationships (between tables)
 
 -Create a matrix of relations between tables
 
@@ -48,21 +47,21 @@ brief mission statement and 2-3 objectives.
 
 **Output**:
 
-**(almost or maybe) final diagram of tables with relationships; this is also called ER (Entity-Relationship) model**
+(almost or maybe) final diagram of tables with relationships; this is also called ER (Entity-Relationship) model**
 
-**Step** **5** Define business rules (and refine design via constraints)
+## Step 5: Define business rules (and refine design via constraints)
 
 **Output:**
 
-**several business rules**
+several business rules
 
-**Step** **6** Define views
+## Step 6: Define views
 
-### Output:
+**Output:**
 
-**several views**
+several views
 
-### Step 7 Review data integrity
+## Step 7 Review data integrity
 
 -Do you have table-level integrity? (six elements of ideal table)
 
@@ -74,7 +73,7 @@ brief mission statement and 2-3 objectives.
 
 -Your views are what the business needs and are correctly implemented as constraints
 
-### Output:
+**Output:**
 
-**an ER (Entity Relationship) model ready to be implemented**
+an ER (Entity Relationship) model ready to be implemented**
 
