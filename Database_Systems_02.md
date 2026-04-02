@@ -1,10 +1,10 @@
 # Ch.2 Design Objectives
 
-· Design then implementation
+## Design then implementation
 
 · Ex. Architect designs a house, then contractor builds it
 
-## · Objectives of good design
+## Objectives of good design
 
 1. Supports information retrieval
 
@@ -12,11 +12,11 @@
 
 3. Data integrity
 
-# 4. Supports the business
+4. Supports the business
 
-# 5. Supports future growth
+5. Supports future growth
 
-## ·Benefits of good design
+## Benefits of good design
 
 1. Can modify database design, i.e. the structure
 
@@ -32,28 +32,20 @@
 
 2. Data modeling - we use entity-relationship (ER) diagramming
 
-## 3. Normalization - decompose larger tables into smaller ones to eliminate redundant and duplicate data
+3. Normalization - decompose larger tables into smaller ones to eliminate redundant and duplicate data
 
-First-sixth normal form
+- First-sixth normal form
 
-Boyce-Codd Normal Form
+- Boyce-Codd Normal Form
 
-### Domain/Key Normal Form
-
-#### This book embeds step 3 into first two steps
+- Domain/Key Normal Form
 
 <!-- Agents 1:N Clients Figure 2.1/An example of a basic ER diagram -->
 ![](https://web-api.textin.com/ocr_image/external/c367ee4200674e48.jpg)
 
 ### Ex. 1st NF: Atomicity
 
-$=eachcell$ l ina
-
-table must contain
-
-one single value.
-
-Students
+eachcell$ l in a table must contain one single value.
 
 
 | FirstName | LastName | Knowledge |
