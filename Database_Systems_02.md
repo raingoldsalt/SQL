@@ -45,7 +45,7 @@
 
 ### Ex. 1st NF: Atomicity
 
-eachcell$ l in a table must contain one single value.
+each cell in a table must contain one single value.
 
 
 | FirstName | LastName | Knowledge |
@@ -55,14 +55,8 @@ eachcell$ l in a table must contain one single value.
 | Igor | Mueller | $C++$ Java |
 
 
-### Startsituation
 
-
-![](https://web-api.textin.com/ocr_image/external/7aedf4cbae4de47f.jpg)
-
-Result after Normalisation
-
-Students
+**Result after Normalisation**
 
 
 | FirstName | LastName | Knowledge |
